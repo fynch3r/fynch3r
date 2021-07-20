@@ -18,9 +18,19 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0range228&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0range228&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+🔭 I’m currently working on Java security also fighting with [soot](https://github.com/soot-oss/soot).
+
+🌱 I’m currently learning Program Analysis | Coding Audit | RASP IAST.
+
+⚡ Quote: No pains,no gains.
+
+📫 Please email via infosec_fxc@163.com / Wechat:fxc283470 to reach me.
+
+:computer: Java Python Go
+
+![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/0range228?label=Follow" style=" float:left, margin-right:10px" />
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=0range228&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0range228&layout=compact" />
 </a>
