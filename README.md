@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0range228&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0range228&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-🔭 I’m currently working on Java security also fighting with [Soot](https://github.com/soot-oss/soot).
+🔭 I’m currently working on Java security also fighting with [Soot](https://github.com/soot-oss/soot) & [CodeQL](https://github.com/github/codeql).
 
 🌱 I’m currently learning Program Analysis | Coding Audit | RASP IAST.
 
