@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Java security also fighting with [Soot](https://github.com/soot-oss/soot) & [CodeQL](https://github.com/github/codeql).
 
-🌱 I’m currently learning Program Analysis | Coding Audit | RASP IAST.
+🌱 I’m currently learning Program Analysis | Coding Audit | RASP & IAST.
 
 ⚡ Quote: No pains,no gains.
 
