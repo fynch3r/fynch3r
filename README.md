@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ⚡ Quote: No pains,no gains.
 
-📫 Please email via infosec_fxc@163.com / Wechat:fxc283470 to reach me.
+📫 Please email via coderforge@outlook.com / Wechat:fxc283470 to reach me.
 
 :computer: Java Python Go
 
