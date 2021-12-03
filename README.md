@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Program Analysis | Coding Audit | RASP & IAST.
 
-⚡ Quote: No pains,no gains.
-
-📫 Please email via coderforge@outlook.com / Wechat:fxc283470 to reach me.
+📫 Contact me via coderforge@outlook.com / Wechat:fxc283470.
 
 :computer: Java Python Go
 
@@ -32,5 +30,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0range228&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fynch3r&show_icons=true&theme=merko" />
 </a>
