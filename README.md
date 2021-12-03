@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 :computer: Java Python Go
 
-![](https://komarev.com/ghpvc/?username=0range228&color=orange&style=flat-square)  <img src="https://img.shields.io/github/followers/0range228?label=Follow" style=" float:left, margin-right:10px" />
+![](https://komarev.com/ghpvc/?username=fynch3r&color=orange&style=flat-square)  <img src="https://img.shields.io/github/followers/fynch3r?label=Follow" style=" float:left, margin-right:10px" />
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
