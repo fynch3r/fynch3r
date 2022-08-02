@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Program Analysis | Coding Audit | RASP & IAST.
 
-📫 Contact me via coderforge@outlook.com / Wechat:fxc283470.
+📫 Contact me via coderforge@outlook.com
 
 :computer: Java Python Go
 
