@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> 但是年轻人的价值怎么能用当前社会认可的价值来衡量呢，不为了多挣那么几万块钱，也不用为了给国家争口气，也不用为了给这个世界的知识库留下一点自己的贡献，就为了在知识中寻找一个无限可能的自我来慰藉这有限的生命吧。
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0range228&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0range228&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
