@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🔭 Noob on [Soot](https://github.com/soot-oss/soot) & [CodeQL](https://github.com/github/codeql).
 
-🌱 I’m currently learning Program Analysis | Coding Audit | RASP & IAST.
+🌱 I’m currently learning Program Analysis | Coding Audit | RASP & IAST | Greybox Fuzz.
 
 📫 Contact me via coderforge@outlook.com
 
